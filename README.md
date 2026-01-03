@@ -4,7 +4,7 @@
 - 🔭 Working at IBM, focusing on cloud & automation
 - 🌱 Currently exploring Generative AI and AI agents
 - 📍 Based in San Jose, California
-- 
+  
 ## Tech Stack & Interests
 - ☁️ Cloud Technologies
 - 🤖 GenAI & AI Agents
