@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shankar Pentyala
 
-<!--
-**shankarpentyala07/shankarpentyala07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 Working at IBM, focusing on cloud & automation
+- 🌱 Currently exploring Generative AI and AI agents
+- 📍 Based in San Jose, California
+- 🏠 Working from home
 
-Here are some ideas to get you started:
+## Tech Stack & Interests
+- ☁️ Cloud Technologies
+- 🤖 GenAI & AI Agents
+- ⚙️ Kubernetes & Automation
+- 🐍 Python Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+Check out my pinned repos below for my latest work on k8sGPT, AI agents, and MCP projects!
+
+## Connect with Me
+- 📝 [Medium Blog](https://medium.com/@pentyalashankar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shankar43/)
+
+---
+Always Learning! 🚀
